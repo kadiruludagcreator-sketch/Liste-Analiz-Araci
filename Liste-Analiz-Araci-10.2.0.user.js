@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Liste Analiz ve Yorum Botu Aracı (AI Entegreli)
 // @namespace    vm-x-list-reply-analyzer-dom
-// @version      10.2.0
+// @version      10.3.0
 // @description  Yapay zeka destekli yorum botu, birleştirilmiş kullanıcı çekme (takipçi, liste, yorumcu), analiz ve otomasyon araçları. Open Router API ile entegre çalışır. Gelişmiş analiz ve otomasyon özellikleri sunar.
 // @match        https://*.x.com/*
 // @match        https://*.twitter.com/*
@@ -13,6 +13,8 @@
 // @grant        GM_addValueChangeListener
 // @grant        GM_removeValueChangeListener
 // @grant        GM_openInTab
+// @downloadURL https://raw.githubusercontent.com/kadiruludagcreator-sketch/Liste-Analiz-Araci/main/Liste-Analiz-Araci-10.2.0.user.js
+// @updateURL   https://raw.githubusercontent.com/kadiruludagcreator-sketch/Liste-Analiz-Araci/main/Liste-Analiz-Araci-10.2.0.user.js
 // ==/UserScript==
 (() => {
     'use strict';
